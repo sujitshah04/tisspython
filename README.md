@@ -1,2 +1,3 @@
 # tiss-python-2025
-Practice 
+
+Python based projects and analysis
