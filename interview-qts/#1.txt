@@ -1,0 +1,9 @@
+9. How do you handle missing data in a DataFrame using Pandas? 
+10. Write a Python script to read a CSV file, clean the data, and insert it into a SQL database. 
+
+ Advanced Concepts: 
+11. Explain how you would implement exception handling in a Python ETL script. 
+12. How do you use Python for connecting to a cloud database (e.g., AWS RDS, Azure SQL)? 
+13. Describe the difference between NumPy arrays and Pandas DataFrames. 
+14. How do you use Python for automating ETL pipelines? Provide an example. 
+15. Write a Python program to process real-time streaming data (e.g., Kafka or Spark Streaming). 
