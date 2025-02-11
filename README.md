@@ -2,4 +2,4 @@
 
 Python based projects and analysis
 
-- Author Sujit Shah
+Author by Sujit Shah
